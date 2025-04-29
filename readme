@@ -1,0 +1,7 @@
+First, the admin must log in to the admin dashboard and assist the park guide in registering an account. Once the park guide has an account, they can log in to the park guide dashboard. Admin and parkguide dashboard have sidebar to navigate to other page.
+
+After accessing the admin dashboard, the admin needs to navigate to the certification management page to create a license. Once the license is created, the admin must select the license and create a training course (with multiple topics) along with an online quiz.
+
+After this, the park guide will register for the license and wait for admin approval (to prevent excessive registrations). Once registered, the park guide will gain access to the training course and online quiz. Since the course consists of multiple topics, the park guide must first complete Stage 1 before Stage 2 becomes available.
+
+As the park guide progresses through the training, the progress tracker will update. When the progress reaches 100%, the admin will review and decide whether to issue the license or certificate to the park guide.
